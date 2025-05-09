@@ -1,3 +1,4 @@
+[Coca-Cola Dashboard.xlsx](https://github.com/user-attachments/files/20122309/Coca-Cola.Dashboard.xlsx)
 # COCA-COLA-DOCUMENTATION
 ## TABLE OF CONTENT
 ### INTRODUCTION
@@ -45,6 +46,7 @@
 #### Product category (e.g., Coke, Diet Coke, Sprite, fanta, powerade)
 #### Sales volume, revenue, profit margins
 #### Promotional discounts, seasonal trends
+[Coca-Cola Dashboard.xlsx](https://github.com/user-attachments/files/20122309/Coca-Cola.Dashboard.xlsx)
 
 ### TOOL
 #### Excel – Preliminary data exploration
