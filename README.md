@@ -5,11 +5,21 @@
 ### OBJECTIVE
 ### DATA SOURCE 
 ### TOOL
-### COCA-COLA EXPLORATORY DATA ANALYSIS
+### COCA-COLA EXPLORATORY DATA ANALYSIS!
 ### COCA DATA ANALYSIS AND VISUALISATION
 ###  COCA-COLA DASHBOARD INSIGHT
 ### CONCLUSION
 ### RECOMMENDATION
+[2023 south coca-cola retail dashboard](https://github.com/user-attachments/assets/258933c5-9d70-4e60-b11a-1e6b2f18a83a)
+![2023 South coca-cola retail chart](https://github.com/user-attachments/assets/0b00195d-c65f-49ac-a67a-6f02d27cc2ef)
+![2023 northeast coca-cola retail dashboard](https://github.com/user-attachments/assets/d26f13d8-68da-4452-9cc9-dad247960304)
+![2023 North-east coca-cola retail chart](https://github.com/user-attachments/assets/89dd1bbb-6146-4c2c-ae8c-11a313c28bea)
+![2023 North-east coca-cola retail chart (2)](https://github.com/user-attachments/assets/166b7dd8-c56d-45e8-998c-cdce72ff0d81)
+![2023 midwest coca-cola retail dashboard](https://github.com/user-attachments/assets/d7d95616-6e32-4057-b8bd-ef0408860244)
+![2023 midwest coca-cola retail chart](https://github.com/user-attachments/assets/e1a01a14-862c-4bed-8521-7bb512c4723a)
+![2023 midwest coca-cola retail chart (2)](https://github.com/user-attachments/assets/9e14a28a-f019-4b7c-99e1-3577f77dc9b4)
+![2022 Nort-east coca-cola retail chart](https://github.com/user-attachments/assets/10484f19-b392-4951-b57f-a72f189e04f2)
+![2022 midwest coca-cola retail dashboard](https://github.com/user-attachments/assets/340e1580-870a-4a2e-bda9-a4d61a6709)
 
 ### INTRODUCTION
 ### This project analyzes Coca-Cola’s sales performance to identify trends, key drivers, and opportunities for growth. The analysis leverages historical sales data to provide actionable insights for improving revenue, optimizing marketing strategies, and enhancing operational efficiency.
@@ -56,13 +66,20 @@
 #### Sales Trend Over the year (Line Chart) – Monthly/quarterly trends.
 #### Regional Sales Distribution (Bar/Map Chart) – Top and bottom regions.
 #### Product Performance (Pie/Bar Chart) – Revenue contribution by product.
+![2023 South coca-cola retail chart](https://github.com/user-attachments/assets/0b00195d-c65f-49ac-a67a-6f02d27cc2ef)
+![2023 northeast coca-cola retail dashboard](https://github.com/user-attachments/assets/d26f13d8-68da-4452-9cc9-dad247960304)
+![2023 midwest coca-cola retail chart](https://github.com/user-attachments/assets/e1a01a14-862c-4bed-8521-7bb512c4723a)
+![2022 Nort-east coca-cola retail chart](https://github.com/user-attachments/assets/10484f19-b392-4951-b57f-a72f189e04f2
 
 ###  COCA-COLA DASHBOARD INSIGHT
 ### Interactive Dashboard Features:
 #### Filters: Region, product, Year.
 #### KPIs: Total sales, total unit, average price, operating margin.
 #### Insights: Highlight top trends and anomalies.
-
+[2023 south coca-cola retail dashboard](https://github.com/user-attachments/assets/258933c5-9d70-4e60-b11a-1e6b2f18a83a)
+![2023 northeast coca-cola retail dashboard](https://github.com/user-attachments/assets/d26f13d8-68da-4452-9cc9-dad247960304)
+![2023 midwest coca-cola retail dashboard](https://github.com/user-attachments/assets/d7d95616-6e32-4057-b8bd-ef0408860244)
+![2022 midwest coca-cola retail dashboard](https://github.com/user-attachments/assets/340e1580-870a-4a2e-bda9-a4d61a6709
 ### CONCLUSION
 
 ### RECOMMENDATION
